@@ -1,0 +1,47 @@
+{
+    "ParkingSim": {
+        "checkpoints": [
+            {
+                "steps": 210307,
+                "file_path": "results\\ParkingWithAll05\\ParkingSim\\ParkingSim-210307.onnx",
+                "reward": 47.47500038146973,
+                "creation_time": 1727389216.648412,
+                "auxillary_file_paths": [
+                    "results\\ParkingWithAll05\\ParkingSim\\ParkingSim-210307.pt"
+                ]
+            },
+            {
+                "steps": 219697,
+                "file_path": "results\\ParkingWithAll05\\ParkingSim\\ParkingSim-219697.onnx",
+                "reward": 33.790698162345,
+                "creation_time": 1727417452.5360487,
+                "auxillary_file_paths": [
+                    "results\\ParkingWithAll05\\ParkingSim\\ParkingSim-219697.pt"
+                ]
+            },
+            {
+                "steps": 300237,
+                "file_path": "results\\ParkingWithAll05\\ParkingSim\\ParkingSim-300237.onnx",
+                "reward": 54.998780506413155,
+                "creation_time": 1727423561.8136551,
+                "auxillary_file_paths": [
+                    "results\\ParkingWithAll05\\ParkingSim\\ParkingSim-300237.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 300237,
+            "file_path": "results\\ParkingWithAll05\\ParkingSim.onnx",
+            "reward": 54.998780506413155,
+            "creation_time": 1727423561.8136551,
+            "auxillary_file_paths": [
+                "results\\ParkingWithAll05\\ParkingSim\\ParkingSim-300237.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.1+cu124"
+    }
+}

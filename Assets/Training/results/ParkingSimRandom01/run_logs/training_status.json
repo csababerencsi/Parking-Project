@@ -1,0 +1,29 @@
+{
+    "ParkingSim": {
+        "checkpoints": [
+            {
+                "steps": 132642,
+                "file_path": "results\\ParkingSimRandom01\\ParkingSim\\ParkingSim-132642.onnx",
+                "reward": -267.6343072891235,
+                "creation_time": 1726580098.968645,
+                "auxillary_file_paths": [
+                    "results\\ParkingSimRandom01\\ParkingSim\\ParkingSim-132642.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 132642,
+            "file_path": "results\\ParkingSimRandom01\\ParkingSim.onnx",
+            "reward": -267.6343072891235,
+            "creation_time": 1726580098.968645,
+            "auxillary_file_paths": [
+                "results\\ParkingSimRandom01\\ParkingSim\\ParkingSim-132642.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.1+cu124"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "ParkingSim": {
+        "checkpoints": [
+            {
+                "steps": 322851,
+                "file_path": "results\\ParkingSimStaticCam01\\ParkingSim\\ParkingSim-322851.onnx",
+                "reward": null,
+                "creation_time": 1726860378.2129161,
+                "auxillary_file_paths": [
+                    "results\\ParkingSimStaticCam01\\ParkingSim\\ParkingSim-322851.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 322851,
+            "file_path": "results\\ParkingSimStaticCam01\\ParkingSim.onnx",
+            "reward": null,
+            "creation_time": 1726860378.2129161,
+            "auxillary_file_paths": [
+                "results\\ParkingSimStaticCam01\\ParkingSim\\ParkingSim-322851.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.1+cu124"
+    }
+}

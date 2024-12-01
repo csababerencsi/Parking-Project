@@ -1,0 +1,38 @@
+{
+    "ParkingSim": {
+        "checkpoints": [
+            {
+                "steps": 499871,
+                "file_path": "results\\ParkingWithCam04\\ParkingSim\\ParkingSim-499871.onnx",
+                "reward": null,
+                "creation_time": 1727375286.4083326,
+                "auxillary_file_paths": [
+                    "results\\ParkingWithCam04\\ParkingSim\\ParkingSim-499871.pt"
+                ]
+            },
+            {
+                "steps": 764790,
+                "file_path": "results\\ParkingWithCam04\\ParkingSim\\ParkingSim-764790.onnx",
+                "reward": 35.0,
+                "creation_time": 1727380737.0082636,
+                "auxillary_file_paths": [
+                    "results\\ParkingWithCam04\\ParkingSim\\ParkingSim-764790.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 764790,
+            "file_path": "results\\ParkingWithCam04\\ParkingSim.onnx",
+            "reward": 35.0,
+            "creation_time": 1727380737.0082636,
+            "auxillary_file_paths": [
+                "results\\ParkingWithCam04\\ParkingSim\\ParkingSim-764790.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.1+cu124"
+    }
+}
